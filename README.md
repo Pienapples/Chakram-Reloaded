@@ -22,8 +22,8 @@ More changes are planned and are coming to completely reinvent the Chakram Skill
 
 # Contact
 - Mention me in the [Outward Modding Community](https://discord.gg/zKyfGmy7TR)
-- Mention me in the `#outward-modding` channel [Outward Community](https://discord.com/invite/outward)
-- DM me in Discord `Pienapple#8308`
+- Tag me in the `#outward-modding` channel in the [Outward Community](https://discord.com/invite/outward)
+- DM me on Discord `Pienapple#8308`
 
 # Credits
 Written by Pienapple
