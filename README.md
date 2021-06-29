@@ -15,7 +15,7 @@ More changes are planned and are coming to completely reinvent the Chakram Skill
 # Installation
 - Download and Install [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest/) and [Mefino's Configuration Manager](https://github.com/Mefino/BepInEx.ConfigurationManager/releases/latest)(**Optional**)
 - Download and Install [SideLoader](https://github.com/sinai-dev/Outward-SideLoader/releases/latest)(**Required**)
-- Download this mod from [GitHub](https://github.com/Pienapples/ChakramLove/releases) or [Thunderstore](https://outward.thunderstore.io/package/Pienapples/Chakram_Love/)(**recommnded**)
+- Download this mod from [GitHub](https://github.com/Pienapples/ChakramLove/releases) or [Thunderstore](https://outward.thunderstore.io/package/Pienapples/Chakram_Love/)(**recommended**)
 - Extract the File `ChakramLove` to `Outward\BepInEx\plugins\`
 - Press `F5` in-game to open the `Configuration Manager` window
 - Enjoy! :3
