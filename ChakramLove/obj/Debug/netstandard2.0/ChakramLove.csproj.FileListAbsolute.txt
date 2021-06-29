@@ -1,0 +1,17 @@
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\bin\Debug\netstandard2.0\ChakramLove.deps.json
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\bin\Debug\netstandard2.0\ChakramLove.dll
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\bin\Debug\netstandard2.0\ChakramLove.pdb
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\bin\Debug\netstandard2.0\0Harmony.dll
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\bin\Debug\netstandard2.0\Assembly-CSharp-firstpass.dll
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\bin\Debug\netstandard2.0\BepInEx.dll
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\bin\Debug\netstandard2.0\SideLoader.dll
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\bin\Debug\netstandard2.0\UnityEngine.CoreModule.dll
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\bin\Debug\netstandard2.0\UnityEngine.dll
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\obj\Debug\netstandard2.0\ChakramLove.csproj.AssemblyReference.cache
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\obj\Debug\netstandard2.0\ChakramLove.AssemblyInfoInputs.cache
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\obj\Debug\netstandard2.0\ChakramLove.AssemblyInfo.cs
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\obj\Debug\netstandard2.0\ChakramLove.csproj.CoreCompileInputs.cache
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\obj\Debug\netstandard2.0\ChakramLove.csproj.CopyComplete
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\obj\Debug\netstandard2.0\ChakramLove.dll
+C:\Users\friza\source\repos\ChakramLove\ChakramLove\obj\Debug\netstandard2.0\ChakramLove.pdb
