@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\friza\\source\\repos\\ChakramLove\\ChakramLove\\ChakramLove.csproj",
-      "projectName": "ChakramLove",
-      "projectPath": "C:\\Users\\friza\\source\\repos\\ChakramLove\\ChakramLove\\ChakramLove.csproj",
+      "projectUniqueName": "C:\\Users\\friza\\source\\repos\\ChakramLove\\ChakramLove\\ChakramReloaded.csproj",
+      "projectName": "ChakramReloaded",
+      "projectPath": "C:\\Users\\friza\\source\\repos\\ChakramLove\\ChakramLove\\ChakramReloaded.csproj",
       "packagesPath": "C:\\Users\\friza\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\friza\\source\\repos\\ChakramLove\\ChakramLove\\obj\\",
       "projectStyle": "PackageReference",

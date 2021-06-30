@@ -31,3 +31,10 @@ Written by Pienapple
 - Major Thanks to [Sinai](https://github.com/sinai-dev)
 - Thanks to [Vheos](https://github.com/Vheos777) for providing me with the material to make the mod.
 - Thanks to `ehaugw` for inviting me to the modding community and provinding me with the opportunity to make the mod.
+
+# Changelog
+- 1.0.1 
+Cleaned up the code.
+Renamed the mod from `Chakram Love` to `Chakram Reloaded`
+Added better documentation
+- 1.0.0 Official Release of the Mod
