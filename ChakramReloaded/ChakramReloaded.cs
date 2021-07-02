@@ -20,10 +20,10 @@ namespace ChakramReloaded
 
         internal void Awake()
         {
-            // Skill ID, Name of Skill, Default Mana Cost, Default Cooldown, Default Boon Requirement true(disabled) false(enabled)
-            chakramPierce = new SkillConfig(Config, 8100250, "Chakram Pierce", 3f, 2.5f, true);
-            chakramArc = new SkillConfig(Config, 8100252, "Chakram Arc", 4f, 6f, true);
-            chakramDance = new SkillConfig(Config, 8100251, "Chakram Dance", 10f, 60f, true);
+            // Skill ID, Name of Skill, Default Mana Cost, Default Cooldown, Default Boon Requirement true(enabled) false(disabled)
+            chakramPierce = new SkillConfig(Config, 8100250, "Chakram Pierce", 3f, 2.5f, false);
+            chakramArc = new SkillConfig(Config, 8100252, "Chakram Arc", 4f, 6f, false);
+            chakramDance = new SkillConfig(Config, 8100251, "Chakram Dance", 10f, 60f, false);
         }
     }
 }

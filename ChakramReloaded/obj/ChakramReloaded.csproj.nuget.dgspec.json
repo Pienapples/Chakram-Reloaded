@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\friza\\source\\repos\\ChakramLove\\ChakramLove\\ChakramReloaded.csproj": {}
+    "C:\\Users\\friza\\source\\repos\\ChakramReloaded\\ChakramReloaded\\ChakramReloaded.csproj": {}
   },
   "projects": {
-    "C:\\Users\\friza\\source\\repos\\ChakramLove\\ChakramLove\\ChakramReloaded.csproj": {
+    "C:\\Users\\friza\\source\\repos\\ChakramReloaded\\ChakramReloaded\\ChakramReloaded.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\friza\\source\\repos\\ChakramLove\\ChakramLove\\ChakramReloaded.csproj",
+        "projectUniqueName": "C:\\Users\\friza\\source\\repos\\ChakramReloaded\\ChakramReloaded\\ChakramReloaded.csproj",
         "projectName": "ChakramReloaded",
-        "projectPath": "C:\\Users\\friza\\source\\repos\\ChakramLove\\ChakramLove\\ChakramReloaded.csproj",
+        "projectPath": "C:\\Users\\friza\\source\\repos\\ChakramReloaded\\ChakramReloaded\\ChakramReloaded.csproj",
         "packagesPath": "C:\\Users\\friza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\friza\\source\\repos\\ChakramLove\\ChakramLove\\obj\\",
+        "outputPath": "C:\\Users\\friza\\source\\repos\\ChakramReloaded\\ChakramReloaded\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\friza\\AppData\\Roaming\\NuGet\\NuGet.Config",

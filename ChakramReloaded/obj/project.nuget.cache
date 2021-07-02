@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FlOU3TgJlWsT58VBTkXC5OxKWSJBf7TQG1IVGwv2ymO2F3bTgRzJWLUQae7N4p4XgX4q/W50PLYYbP61CIbkEw==",
+  "dgSpecHash": "GWyYHMm1qBBICTI9eD+iEVCH3otP0yW4IzL3j4Mpse+HrZcWnDsgKYZYt5wNo+Ijvt+0UnN3TcuP4UamIlOWOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\friza\\source\\repos\\ChakramLove\\ChakramLove\\ChakramReloaded.csproj",
+  "projectFilePath": "C:\\Users\\friza\\source\\repos\\ChakramReloaded\\ChakramReloaded\\ChakramReloaded.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\friza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\friza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

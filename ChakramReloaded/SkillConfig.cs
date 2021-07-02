@@ -17,7 +17,7 @@ namespace ChakramReloaded
             // Title of Configuration, Descriptor, Float Value, Hover Tip
             this.manaCost = config.Bind(name, "Mana Cost", defaultManaCost, $"The mana cost for {name} skill. (Requires Game Restart!)");
             this.cooldown = config.Bind(name, "Cooldown", defaultCooldown, $"The cooldown for {name} skill. (Requires Game Restart!)");
-            this.requireDiscipline = config.Bind(name, "Disable Discipline Requirement", defaultReqDiscipline, $"Disable discipline boon requirement for {name} skill. (Requires Game Restart!");
+            this.requireDiscipline = config.Bind(name, "Discipline Requirement", defaultReqDiscipline, $"Disable discipline boon requirement for {name} skill. (Requires Game Restart!");
 
             new SL_Skill()
             {
