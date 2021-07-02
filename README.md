@@ -31,6 +31,10 @@ Written by Pienapple
 - Thanks to `ehaugw` for inviting me to the modding community and provinding me with the opportunity to make the mod.
 
 # Changelog
+**1.0.2**
+- Fixed the Config Descriptor for `Boon Requirement` to accurately reflect chosen setting
+- Changed default values to have `Boon Requirement` be false.
+
 **1.0.1** 
 - Cleaned up the code.
 - Renamed the mod from `Chakram Love` to `Chakram Reloaded`
