@@ -1,21 +1,19 @@
 # About
-Chakram Love is a project for Outward to rebalance the Chakrams and make them a more interesting and fun addition to your class builds. You can expect these changes from Chakram Love now;
-- Mana Cost and Cooldown is cut in half for all Chakram Skills.
-- Removed need of the Discipline Boon to cast the Skills.
+Chakram Reloaded is a project for Outward to rebalance the Chakrams and make them a more interesting and fun addition to your class builds. Adding new additions to the Chakram skills, more skills, Trainer, and Weapons!
 
 More changes are planned and are coming to completely reinvent the Chakram Skills for New and Experienced Players alike to enjoy!
 
 # Planned
-- Nerf Chakram damage to account for change in Mana Cost and Cooldown Reduction
-- Lower the price for Chakram weapons
-- Add more effects for different Chakram
-- Add a Chakram Trainer and Skill tree for more skills
-- Add a Mainhand Chakram to pair with the Offhand Chakram
+- Nerf Chakram damage to account for change in Mana Cost and Cooldown Reduction.
+- Lower the price for certain Chakram weapons.
+- Add effects for different Chakrams.
+- Add a Mainhand Chakram instead of being exclusively Off-Hand.
+- Add a Chakram Trainer and Skill tree.
 
 # Installation
 - Download and Install [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest/) and [Mefino's Configuration Manager](https://github.com/Mefino/BepInEx.ConfigurationManager/releases/latest)(**Optional**)
 - Download and Install [SideLoader](https://github.com/sinai-dev/Outward-SideLoader/releases/latest)(**Required**)
-- Download this mod from [GitHub](https://github.com/Pienapples/ChakramLove/releases) or [Thunderstore](https://outward.thunderstore.io/package/Pienapples/Chakram_Love/)(**recommended**)
+- Download this mod from [GitHub](https://github.com/Pienapples/ChakramLove/releases) or [Thunderstore](https://outward.thunderstore.io/package/Pienapples/Chakram_Reloaded/1.0.1/)(**recommended**)
 - Extract the File `ChakramLove` to `Outward\BepInEx\plugins\`
 - Press `F5` in-game to open the `Configuration Manager` window
 - Enjoy! :3
@@ -33,8 +31,10 @@ Written by Pienapple
 - Thanks to `ehaugw` for inviting me to the modding community and provinding me with the opportunity to make the mod.
 
 # Changelog
-- 1.0.1 
-Cleaned up the code.
-Renamed the mod from `Chakram Love` to `Chakram Reloaded`
-Added better documentation
-- 1.0.0 Official Release of the Mod
+**1.0.1** 
+- Cleaned up the code.
+- Renamed the mod from `Chakram Love` to `Chakram Reloaded`
+- Added better documentation
+
+**1.0.0** 
+- Official Release of the Mod
